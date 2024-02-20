@@ -7,7 +7,6 @@ Click the image below to watch the trailer video!
 
 You can download the game from itch.io platform here: 
 [itch.io/cheftopus](https://thecooltea.itch.io/cheftopus)
-https://thecooltea.itch.io/cheftopus
 
 Game was made by six people working as a group. We adhered to agile methodology of product developement. The group implemented SCRUM methodology and were delivering major updates to the project on weekly bases.
 How we worked & project developement in detail: [Google PResentation](https://docs.google.com/presentation/d/18JoBZINPGHcC9934c-cgWqmwyPI-kkL5l96vfcr4X3Q/edit?usp=sharing)
