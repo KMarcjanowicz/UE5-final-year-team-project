@@ -1,6 +1,6 @@
 @ -1,24 +0,0 @@
 # UE5-final-year-team-project
-Final year team project for Team Project module during the third year at the university of HUddersfield.
+Final year team project for Team Project module during the third year at the university of Huddersfield. Cooking point-and-click adventure game made in Unreal Engine 5. C++ with blueprints. My role: Lead programmer responsible for the cooking mechanics and player interacvtion with the world. Later QA resposibiltities to deliver an amazing product.
 
 Click the image below to watch the trailer video!
 [![Watch the video](https://img.youtube.com/vi/ZUjtnqoPHxw/maxresdefault.jpg)](https://youtu.be/ZUjtnqoPHxw)
